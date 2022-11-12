@@ -1,6 +1,6 @@
 <h2 align = "center";> Hi guys! 👋</h2>
 <p align="center"; color="#FF1E1E";>
-  <a href="https://github.com/Neerazan"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'am+Neerazan+an+IT+Student."></a>
+  <a href="https://github.com/Neerazan"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'am+Neerazan,+an+IT+Student."></a>
 </p>
 
 <li>:smiley: AI enthusiast</li>
