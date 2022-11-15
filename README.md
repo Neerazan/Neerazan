@@ -10,8 +10,8 @@
 <hr/>
 
 <p align="center">
-<a href="https://github.com/QaidVoid?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=QaidVoid&theme=tokyonight&show_icons=true&count_private=true" width="49%" alt="@Neerazan's Github contribution stats"/></a>
-<a href="https://github.com/QaidVoid?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=QaidVoid&theme=tokyonight" width="49%" alt="@Neerazan's Github streak stats"/></a>
+<a href="https://github.com/QaidVoid?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Neerazan&theme=tokyonight&show_icons=true&count_private=true" width="49%" alt="@Neerazan's Github contribution stats"/></a>
+<a href="https://github.com/QaidVoid?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Neerazan&theme=tokyonight" width="49%" alt="@Neerazan's Github streak stats"/></a>
 </p>
 
 <p align="center">
