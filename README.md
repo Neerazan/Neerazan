@@ -15,11 +15,5 @@
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=QaidVoid&bg_color=1a1b26&color=c0caf5&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="98%" alt="@Neerazan's Contribution Graph">
-</p>
-
-<p align="center">
-    <a href="https://www.codewars.com/users/QaidVoid">
-        <img src="https://www.codewars.com/users/QaidVoid/badges/large" alt="@Neerazan's Codewars badge">
-    </a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=QaidVoid&bg_color=1a1b26&color=c0caf5&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="98%" alt="@QaidVoid's Contribution Graph">
 </p>
