@@ -9,11 +9,13 @@
 
 <hr/>
 
-<p align="center">
-<a href="https://github.com/Neerazan?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Neerazan&theme=tokyonight&show_icons=true&count_private=true" width="49%" alt="@Neerazan's Github contribution stats"/></a>
-<a href="https://github.com/Neerazan?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Neerazan&theme=tokyonight" width="49%" alt="@Neerazan's Github streak stats"/></a>
-</p>
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Neerazan&bg_color=1a1b26&color=c0caf5&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="98%" alt="@Neerazan's Contribution Graph">
-</p>
+<div align="center">
+    <a href="https://github.com/QaidVoid/github-stats#gh-dark-mode-only">
+        <img src="https://github.com/Neerazan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+        <img src="https://github.com/Neerazan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/QaidVoid/github-stats#gh-light-mode-only">
+        <img src="https://github.com/Neerazan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+        <img src="https://github.com/Neerazan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    </a>
+</div
