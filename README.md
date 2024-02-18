@@ -5,7 +5,7 @@
 
 <li>:smiley: AI enthusiast</li>
 <li>:heart: Love to play with data
-<li>:seedling: Currently learning Web development and Machine learning</li>
+<li>:seedling: Currently learning Backend Development</li>
 
 <hr/>
 
