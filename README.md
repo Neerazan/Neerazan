@@ -63,10 +63,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neerazan/github-stats/stats/generated/overview.svg#gh-dark-mode-only" alt="Neerazan's GitHub Overview (Dark Mode)" />
-  <img src="https://raw.githubusercontent.com/neerazan/github-stats/stats/generated/overview.svg#gh-light-mode-only" alt="Neerazan's GitHub Overview (Light Mode)" />
-  <img src="https://raw.githubusercontent.com/neerazan/github-stats/stats/generated/languages.svg#gh-dark-mode-only" alt="Neerazan's Most Used Languages (Dark Mode)" />
-  <img src="https://raw.githubusercontent.com/neerazan/github-stats/stats/generated/languages.svg#gh-light-mode-only" alt="Neerazan's Most Used Languages (Light Mode)" />
+  <img src="https://raw.githubusercontent.com/neerazan/github-stats/generated/overview.svg#gh-dark-mode-only" alt="Neerazan's GitHub Overview (Dark Mode)" />
+  <img src="https://raw.githubusercontent.com/neerazan/github-stats/generated/overview.svg#gh-light-mode-only" alt="Neerazan's GitHub Overview (Light Mode)" />
+  <img src="https://raw.githubusercontent.com/neerazan/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Neerazan's Most Used Languages (Dark Mode)" />
+  <img src="https://raw.githubusercontent.com/neerazan/github-stats/generated/languages.svg#gh-light-mode-only" alt="Neerazan's Most Used Languages (Light Mode)" />
 </div>
 
 ---
