@@ -37,19 +37,6 @@
   <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="https://podman.io"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"></a>
 </p>
-
----
-
-## My Setup
-
-<!-- <p align="center">
-  <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS"></a>
-  <a href="https://github.com/YaLTeR/niri"><img src="https://img.shields.io/badge/Niri-FFBC01?style=for-the-badge&logo=wayland&logoColor=black" alt="Niri"></a>
-  <a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"></a>
-  <a href="https://helix-editor.com"><img src="https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=helix&logoColor=white" alt="Helix"></a>
-  <a href="https://wezfurlong.org/wezterm/"><img src="https://img.shields.io/badge/WezTerm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white" alt="WezTerm"></a>
-</p> -->
-
 ---
 
 ## GitHub Stats
