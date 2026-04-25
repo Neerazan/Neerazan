@@ -63,8 +63,6 @@
 
 ---
 
----
-
 <div align="center">
   <p><em>Building useful things, one commit at a time.</em></p>
 </div>
