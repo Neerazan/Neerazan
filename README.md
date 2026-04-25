@@ -18,13 +18,13 @@
 <a href="mailto:nirajandhakal634@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/nirajan-dhakal-a49a36214/">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://x.com/YOUR_X_HANDLE">
+<a href="https://x.com/_neerajan_">
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
-<a href="https://discord.com/users/399840662566207508">
+<a href="https://discord.com/users/682994721022279702">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 </div>
