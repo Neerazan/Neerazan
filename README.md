@@ -2,9 +2,10 @@
   <h1>Nirajan Dhakal</h1>
   <p><em>Software Developer • AI Enthusiast</em></p>
   <p>
-    Building things that probably shouldn't exist but somehow do.<br />
-    Welcome to my corner of the internet where bugs become features.<br />
-    <strong><tt>EXPECT_UNEXPECTED_BEHAVIOR();</tt></strong> 🌌
+    I build. I break. I rebuild… better (sometimes).<br />
+    AI, backend, and ideas that escalate quickly.<br />
+    Not everything here is stable. That’s intentional.<br />
+    <strong><tt>DEPLOY_ANYWAY();</tt></strong> 🚀
   </p>
 </div>
 
