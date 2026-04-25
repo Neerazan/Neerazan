@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nirajan Dhakal</h1>
+  <h1>Neerajan</h1>
   <p><em>Software Developer • AI Enthusiast</em></p>
   <p>
     I build. I break. I rebuild… better (sometimes).<br />
