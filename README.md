@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Neerajan</h1>
-  <p><em>Software Developer • AI Enthusiast</em></p>
+  <p><em>Software Developer</em></p>
   <p>
     I build. I break. I rebuild… better (sometimes).<br />
     AI, backend, and ideas that escalate quickly.<br />
